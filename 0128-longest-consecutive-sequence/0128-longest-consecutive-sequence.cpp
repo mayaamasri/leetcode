@@ -1,6 +1,5 @@
 class Solution {
-public:
-    
+public: 
     int longestConsecutive(std::vector<int>& nums) {
         if (nums.empty()) {
             return 0;
